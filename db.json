@@ -1,11 +1,6 @@
 {
   "projects": [
     {
-      "id": "1",
-      "name": "Site E-commerce",
-      "color": "#e74c3c"
-    },
-    {
       "id": "2",
       "name": "App Mobile",
       "color": "#3498db"
@@ -24,6 +19,16 @@
       "name": "vvv",
       "color": "#1b8c3e",
       "id": "X0oornQ"
+    },
+    {
+      "name": "salut",
+      "color": "#3498db",
+      "id": "eeqS6Ty"
+    },
+    {
+      "id": "1778797133194",
+      "name": "bonjour",
+      "color": "#3498db"
     }
   ],
   "columns": [
